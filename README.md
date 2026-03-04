@@ -43,17 +43,17 @@ ragAnswer.py
 
 ## Workflow
 
-User Query
-   ↓
-Embedding Model
-   ↓
-ChromaDB Vector Search
-   ↓
-Top-K Context
-   ↓
-Local LLM (LM Studio)
-   ↓
-Answer
+User Query  
+   ↓  
+Embedding Model  
+   ↓  
+ChromaDB Vector Search  
+   ↓  
+Top-K Context  
+   ↓  
+Local LLM (LM Studio)  
+   ↓  
+Answer  
 
 
 ---
