@@ -1,4 +1,4 @@
-import pymupdf # imports the pymupdf library
+import pymupdf 
 import re
 import os
 import json
@@ -51,13 +51,4 @@ for data in dataset:
         json.dump(pdfData, f, ensure_ascii=False, indent=2)
 
 
-#format [source: "", text: "", pageNumber: 0]
-
-
-# echo "# KelaRAG" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https://github.com/Lumiin0us/KelaRAG.git
-# git push -u origin main
+#format [source: "", text: "", pageNumber: 0]?
