@@ -5,7 +5,7 @@ After retrieving, several preprocessing techniques were applied to clean the dat
 
 ---
 
-# Retrieval Process
+## Retrieval Process
 
 When a user asks a question:
 
@@ -16,7 +16,7 @@ When a user asks a question:
 
 ---
 
-# LLM Generation
+## LLM Generation
 
 A local LLM running through **LM Studio** generates the final answer.
 
