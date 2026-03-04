@@ -30,15 +30,15 @@ The model is instructed to:
 
 ## Project Structure
 
-dataset/
-preprocessedDataset/
-chunks/
-chroma_db/
-preprocess.py
-chunking.py
-chromaBuild.py
-ragAnswer.py
-
+dataset/  
+preprocessedDataset/  
+chunks/  
+chroma_db/  
+preprocess.py  
+chunking.py  
+chromaBuild.py  
+ragAnswer.py  
+  
 ---
 
 ## Workflow
